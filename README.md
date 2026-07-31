@@ -1,2 +1,2 @@
 # interactive-maps-folium
-Teaching materials for Python, GeoPandas and Folium.
+навчальні матеріали по Python, GeoPandas та Folium.
